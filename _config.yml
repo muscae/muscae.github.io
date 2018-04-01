@@ -25,8 +25,8 @@ github_username:  muscae
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: leap-day
+theme: minima
+#theme: leap-day
 plugins:
   - jekyll-feed
 
